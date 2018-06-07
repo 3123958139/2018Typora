@@ -7,6 +7,8 @@
 
 # **入门Typora**
 
+- > 安装Typora软件
+
 - > 从Quick Start走起
 
 - > 参考Markdown语法Markdown Reference
