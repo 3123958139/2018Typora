@@ -13,3 +13,4 @@
 
 - > 移步Typora官网https://support.typora.io/
 
+Typora会让你爱上记笔记的！
